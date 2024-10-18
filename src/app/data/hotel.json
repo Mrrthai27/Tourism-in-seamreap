@@ -1,0 +1,36 @@
+{
+    "The_urban": {
+        "text1" :"Situated in Siem Reap, less than 1 km from King's Road Angkor, The Urban features accommodation with an outdoor swimming pool, free private parking, a garden and a terrace. With a bar, the 4-star hotel has air-conditioned rooms with free WiFi, each with a private bathroom. The accommodation offers room service, a 24-hour front desk and currency exchange for guests.",
+        "text2" :"At the hotel, all rooms have a desk. The rooms include a safety deposit box, while some rooms have a balcony and others also feature city views. At The Urban each room is fitted with bed linen and towels.",
+        "text3" :"A continental, American or Asian breakfast can be enjoyed at the property. At the accommodation you will find a restaurant serving American, Cambodian and French cuisine. Vegetarian, vegan and gluten-free options can also be requested.",
+        "text4" :"The area is popular for cycling, and bike hire and car hire are available at The Urban.  ",
+        "text5" :"Popular points of interest near the hotel include Artisans D'Angkor, Preah Ang Chek Preah Ang Chom and Royal Residence.",
+        "text6" :"Couples particularly like the location — they rated it 9.9 for a two-person trip."
+    },
+    "Waka_Villa_Private_Resort":{
+        "text1": "Located in Siem Reap, 1.8 km from King's Road Angkor, WAKA VILLA Private Resort & Spa - Adults Only provides accommodation with an outdoor swimming pool, free private parking, a fitness centre and a garden. This 5-star hotel offers room service, a 24-hour front desk and free WiFi. Guests can have a drink at the bar.",
+        "text2" : "The hotel will provide guests with air-conditioned rooms offering a desk, a coffee machine, a microwave, a minibar, a safety deposit box, a flat-screen TV, a terrace and a private bathroom with a bidet. All rooms are fitted with a kettle, while selected rooms are equipped with a kitchen with a fridge. At WAKA VILLA Private Resort & Spa - Adults Only each room is fitted with bed linen and towels.",
+        "text3" :"Breakfast is available daily, and includes à la carte, continental and American options. At the accommodation you will find a restaurant serving American, Cambodian and French cuisine. Vegetarian and dairy-free options can also be requested. ",
+        "text4" :"Angkor Wat is 7.8 km from WAKA VILLA Private Resort & Spa - Adults Only, while Artisans D'Angkor is 2.4 km away.",
+        "text5" :"Couples particularly like the location — they rated it 9.4 for a two-person trip."
+
+    },
+    "Tara_Angkor_Hotel":{
+        "text1": "Located just 500 metres from Angkor National Museum, Tara Angkor Hotel offers accommodations in Siem Reap. It features an outdoor swimming pool and guests can enjoy meals from 4 dining options. It offers free WiFi throughout the property.",
+        "text2" : "It is 2.3 km to the vibrant Pub Street and Old Market. Angkor Wat is 5.4 km away. Tara Angkor Hotel is 50 km from Siem Reap International Airport.",
+        "text3" :"Tara Angkor’s rooms feature wooden flooring and garden or city views. Each room has cable TV, a safety deposit box, and tea/coffee making facilities. The private bathroom provides bath amenities, bathrobes and slippers.",
+        "text4" :"Guests can approach the 24-hour front desk for currency exchange, tour arrangements, ticketing and concierge services. Alternatively, guests can exercise in the fitness centre or relax in the sauna.",
+        "text5" :"Buffet breakfast is served at Tong Tara Restaurant, which also offers all-day international dining. Frangipani Restaurant features a European and Asian menu. Cocktails can be enjoyed at Lily Lounge or the pool bar.",
+        "text6" : "Couples particularly like the location — they rated it 8.5 for a two-person trip."
+    },
+
+    "Pandora_Suite":{
+        "title" : "Get the celebrity treatment with world-class service at Pandora Suite D'Angkor",
+        "text1" :"Located in Siem Reap, 3.4 km from King's Road Angkor, Pandora Suite D'Angkor provides accommodation with an outdoor swimming pool, free private parking, a garden and a terrace. Among the facilities of this property are a restaurant, room service and a 24-hour front desk, along with free WiFi. The accommodation offers a concierge service, a tour desk and currency exchange for guests.",
+        "text2" :"The hotel will provide guests with air-conditioned rooms with a desk, a coffee machine, a fridge, a minibar, a safety deposit box, a flat-screen TV, a balcony and a private bathroom with a bidet. Every room includes a kettle, while certain rooms include a patio and others also offer city views. At Pandora Suite D'Angkor each room comes with bed linen and towels.",
+        "text3" :"The area is popular for cycling, and bike hire is available at this 5-star hotel. ",
+        "text4" :"Angkor Wat is 3.5 km from the accommodation, while Wat Thmei is 500 metres away.",
+        "text5" :"Couples particularly like the location — they rated it 9.1 for a two-person trip."
+    }
+
+}
